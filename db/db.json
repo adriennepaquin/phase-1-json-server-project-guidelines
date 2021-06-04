@@ -5,13 +5,8 @@
       "name": "Garlic Bread",
       "image": "https://www.cookingclassy.com/wp-content/uploads/2019/09/garlic-bread-04.jpg",
       "recipe-url": "https://www.tasteofhome.com/recipes/garlic-bread/",
-      "hearts": "7",
-      "ingredients": [
-        "butter",
-        "garlic cloves",
-        "French bread",
-        "parsley"
-      ]
+      "hearts": 3,
+      "ingredients": ["butter", "garlic cloves", "French bread", "parsley"]
     },
     {
       "id": 2,
@@ -19,13 +14,7 @@
       "image": "https://static01.nyt.com/images/2014/04/18/dining/Soba-Noodle-Soup/Soba-Noodle-Soup-articleLarge-v2.jpg",
       "recipe-url": "https://cooking.nytimes.com/recipes/12411-soba-noodle-soup",
       "hearts": 8,
-      "ingredients": [
-        "soba noodles",
-        "soy sauce",
-        "dashi",
-        "eggs",
-        "salt"
-      ]
+      "ingredients": ["soba noodles", "soy sauce", "dashi", "eggs", "salt"]
     },
     {
       "id": 3,
@@ -33,16 +22,7 @@
       "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/18/07/1518475314-vanilla-cupcake-horizontal-.jpg",
       "recipe-url": "https://www.kingarthurbaking.com/recipes/golden-vanilla-cake-recipe",
       "hearts": 5,
-      "ingredients": [
-        "butter",
-        "flour",
-        "sugar",
-        "eggs",
-        "vanilla",
-        "baking powder",
-        "salt",
-        "milk"
-      ]
+      "ingredients": ["butter", "flour", "sugar", "eggs", "vanilla", "baking powder", "salt", "milk"]
     },
     {
       "id": 4,
@@ -50,12 +30,7 @@
       "image": "https://celebratingsweets.com/wp-content/uploads/2018/12/Homemade-Hot-Chocolate-4.jpg",
       "recipe-url": "https://celebratingsweets.com/homemade-hot-chocolate/",
       "hearts": 7,
-      "ingredients": [
-        "milk",
-        "sugar",
-        "vanilla",
-        "cocoa powder"
-      ]
+      "ingredients": ["milk", "sugar", "vanilla", "cocoa powder"]
     },
     {
       "id": 5,
@@ -63,12 +38,7 @@
       "image": "https://www.themediterraneandish.com/wp-content/uploads/2020/06/toum-recipe-4-1024x683.jpg",
       "recipe-url": "https://www.themediterraneandish.com/toum-garlic-sauce-recipe/",
       "hearts": 3,
-      "ingredients": [
-        "garlic cloves",
-        "salt",
-        "oil",
-        "lemon juice"
-      ]
+      "ingredients": ["garlic cloves", "salt", "oil", "lemon juice"]
     }
   ]
 }
